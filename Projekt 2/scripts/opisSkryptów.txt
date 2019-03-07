@@ -1,0 +1,18 @@
+Przyj¹³em konwencje nazywania zmiennych - ka¿dy nowy wyraz zaczynam du¿¹ liter¹.
+
+Najwa¿niejszy skrypt: program.m <- w nim znajduj¹ siê wszystkie algorytmy.
+
+W folderze "Kod" znajduj¹ siê wszystkie skrypty u¿yte do wykonania projektu.
+Najwa¿niejszy skrypt jest rozbity na ró¿ne pliki, które s³u¿y³y mi do wykonanywania kolejnych zadañ i tak:
+Zadanie 1 - model.m
+Zadanie 2 - stepResponse.m
+Zadanie 3 - pidSimulation.m
+Zadanie 4 - dmcSimulation.m
+Zadanie 5 - dmcDisturpion.m
+Zadanie 6 - dmcLimitation.m
+Zadanie dodatkowe - dodatkowe.m
+
+Wszystkie w jednym - program.m
+
+W folderze "Symulacje", który znajduje siê w folderze "Kod" znajduj¹ siê skrypty do generowania wielu wykresów (nic wa¿nego).
+
