@@ -1,2 +1,4 @@
 # STP
-Projekty z przedmiotu STP - Sterowanie procesami
+Sterowanie procesami
+
+Autor: Mariusz Słapek
